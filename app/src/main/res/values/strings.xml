@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Intent TP</string>
+    <string name="required">required</string>
+
+    <string-array name="planets_array">
+        <item>DSI2</item>
+        <item>DSI3</item>
+        <item>RSI2</item>
+        <item>RSI3</item>
+        <item>SEM2</item>
+        <item>SEM3</item>
+    </string-array>
+
+</resources>
